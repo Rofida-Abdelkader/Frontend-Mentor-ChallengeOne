@@ -1,0 +1,70 @@
+:root {
+  --main-color: rgb(152, 211, 42);
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #202020;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+.header {
+  position: relative;
+  padding-top: 50px;
+  text-align: center;
+}
+.header .image img {
+  border-radius: 50%;
+  width: 100px;
+}
+.header .text .info {
+  padding-top: 10px;
+  font-weight: bold;
+  color: white;
+  line-height: 0.5;
+}
+.header .text .info h5 {
+  color: var(--main-color);
+}
+.header .text .txt {
+  padding-top: 10px;
+  color: rgb(175, 173, 173);
+  font-weight: normal;
+}
+.choose {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.choose h2 {
+  color: white;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}
+.choose h2:hover {
+  background-color: var(--main-color);
+  color: black;
+  cursor: pointer;
+}
+.choose .click {
+  padding: 15px;
+  background-color: #333;
+  border-radius: 6px;
+  width: 90%;
+}
