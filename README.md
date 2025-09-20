@@ -10,7 +10,7 @@ This project is a solution to a Frontend Mentor challenge, featuring a responsiv
 ## Demo
 Explore the live demo of the project:
 
-[View Live Demo](https://rofida-abdelkader.github.io/Frontend-Mentor-ChallengeOne/)
+[View Live Demo](https://super-cranachan-450a98.netlify.app/)
 
 ## Technologies Used
 - **HTML**: For semantic and accessible markup.
