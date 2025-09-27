@@ -15,3 +15,4 @@ Explore the live demo of the project:
 ## Technologies Used
 - **HTML**: For semantic and accessible markup.
 - **CSS**: For styling, including hover effects and responsive layouts.
+- **Bootstrap**: Updating project using bootstrap.
